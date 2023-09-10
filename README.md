@@ -4,4 +4,3 @@ This study aims to analyze a dataset containing information on buildings impacte
 ![](https://cdn-images-1.medium.com/max/1600/0*tAAY-S5oNuSSL0GI.jpg)
 
 
-[FINAL DRAFY.pdf](https://github.com/chandan2311/Data-Driven-Impact-Analysis-On-Modeling-Earthquake-Damage/files/12568636/FINAL.DRAFY.pdf)
